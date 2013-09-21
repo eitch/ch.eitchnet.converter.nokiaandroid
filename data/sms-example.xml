@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<smses count="811">
+  <sms protocol="0" address="+41791234567" date="1295029983611" type="2" subject="null" body="Hey, can we test this?" toa="null" sc_toa="null" service_center="+41794999000" read="1" status="-1" locked="0" />
+  <sms protocol="0" address="+41797654321" date="1295380212996" type="1" subject="null" body="Sure, go ahead" toa="null" sc_toa="null" service_center="+41794999000" read="1" status="-1" locked="0" />
+</smses>
