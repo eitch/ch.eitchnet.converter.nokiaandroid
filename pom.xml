@@ -21,6 +21,19 @@
 		</dependency>
 	</dependencies>
 
+	<distributionManagement>
+		<repository>
+			<id>archive.eitchnet.ch</id>
+			<name>Internal Releases</name>
+			<url>https://archive.eitchnet.ch/repository/internal/</url>
+		</repository>
+		<snapshotRepository>
+			<id>archive.eitchnet.ch</id>
+			<name>Internal Snapshots</name>
+			<url>https://archive.eitchnet.ch/repository/snapshots/</url>
+		</snapshotRepository>
+	</distributionManagement>
+
 	<build>
 		<pluginManagement>
 			<plugins>
